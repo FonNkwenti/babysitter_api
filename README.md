@@ -15,9 +15,9 @@ content
       |- proposed_solution.md
       |- overview.md
       |- introduction.md
-  |- Application Resoure
+  |- Application Resources
       |- dynamo_db_design.md
-      |- access_patters.md
+      |- access_patterns.md
       |- global_secondary_index.md
   |-  GraphQL Schema and Endpoints
       |- graphql_schema.md
